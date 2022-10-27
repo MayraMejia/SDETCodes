@@ -1,0 +1,13 @@
+CucCucumber
+
+is a bdd behavioral driven development
+
+Gherkin is the language/ tool/ framework
+always recommended to write as in 3rd person
+
+4 ways to learn
+given-when-the-and
+Given- every scenario in BDD represents a test case, it represents pre conditions
+when- to perform actions
+then- expected results
+and- supporting tag there is or in writing cucumber. can use multiple times to make it clean

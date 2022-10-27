@@ -1,0 +1,81 @@
+1) varName.length()    * Counts the number of characters in a string including the spaces
+System.out.println(name.length());
+if(name.length()>15) {
+System.out.println("Name can't be more than 15 characters");
+}
+
+2) varName.isEmpty() or isBlank()  *returns true if a String is empty this method will return false even if you have
+
+3) varName.contains   -
+
+4) varName.charAt()    -
+
+5) varName.trim()      * Remove the spaces before and after the and String but not the ones which are present in between
+
+6) varName.startWith()  - inly checks first letter that you put in peramiter aand is case sensitive
+
+7) varName.length()-1  - when you want the full length of string and print reverse order you use it in a for loop
+
+8) varName.toCharArray()
+
+9) varName.substring()
+
+10) varName.replaceAll() & .replace()   *
+Example  varName.replaceAll("[0-9]","@"))   ("[a-z]","") ^ means not called carot i can specify 2 or more ranges
+together  ("[^a-zA-Z1-9]","$")
+
+11) varName.split(" ")   - will split each word in a string into indexes by spaced,no need for [] when using space
+and varName.split("[anycharacterexceptspace]")
+
+
+12) varName.toUpperCase() * If we need to convert something from lowerCase to upper case we can use this method.
+System.out.println(str.toUpperCase());
+str="JAVA";
+System.out.println(str.toLowerCase());
+}
+
+13) varName.toLowerCase()  * If we need to convert something from upperCase to lower case we can use this method.
+  System.out.println(str.toUpperCase());
+  str="JAVA";
+ System.out.println(str.toLowerCase());
+
+14) varName.ignoreCase()
+
+
+15) varName.isEmpty() or isBlank()
+
+
+16) varName.concat()
+
+
+17) varName.startWith()   *checks if a String starts with a specific letter or word
+System.out.println(str2.startsWith("J"));
+
+18) varName.endsWith()  *checks if a String Ends with a specific letter or word
+System.out.println(str2.endsWith("y"))
+
+19) varName.equalsIgnoreCase()   *equalsIgnoreCase checks if two Strings are exactly the same but does
+not care about the case of letter
+if(str.equalsIgnoreCase("shah")) {
+System.out.println("I found it with equalsIgnoreCase");
+}
+
+20) varName.reverse()
+
+varName.equals  *equals checks if two Strings are exactly the same with exact same
+if(str.equals("shah")) {
+System.out.println("I found it");
+}
+
+21) varName.toCharArray()
+
+22) varName.indexOf
+
+23) varName.replaceFirst   -
+
+24)varName.
+
+25)varName.
+
+
+26) System.out.println(Arrays.toString(Arrayvariablename))

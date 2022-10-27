@@ -1,0 +1,44 @@
+Waterfall Vs Agile
+
+Waterfall- is a methology that isnt that popular anymore. waterfall is for softwares that want quality but not
+the speed for its clients.and that no changes will be made once started. you can change and fix bugs but
+you CANNOT change no fuctionalities. you can not go bach to any previous phase. once phase completed you have to wait
+until entire waterfall is complete and start all over again.
+
+waterfall is simple,clear initiative,step by step process,
+
+Agile is the most popular methology currently being used. and scrum is the most popular framwork within agile.
+Agile was deigned to work fast and to be and to have many options like a ala cart menu.
+with this framework there is more communication. waterfall is like a fine dine in restaurant while agile is like chick fila
+in regards to service and speed.Agile is also a piece by piece.
+
+sprints are between 1-4 usually being 2 weeks through out the industry. and once a sprint time like is chosen
+it cannot be changed throught out the SDLC.
+
+Agile is desighned for when there isnt a clear picture of the pruduct. it gives the client the ability to change  add of the pr
+product in case of keeping up with the world or adapting.
+
+Agile frame workes- Scrum, kanban, scrumban,crystal, extreme programming XP
+
+Agile roles- Product owner (PO), Scrum Master, Development team
+
+Artifacts- Product Backlog, Sprint Backlog, burndown Chart
+
+a PO - is like the big boss that communicates and accepts or rejects work. PO's can authorize change within prints like a broject manager
+
+Scrum Master- is like the supervisor that is the middle man between the PO and the dev team. he ensures scrum is understood,
+communicates to the product owner and does not make decisions for the team
+
+Dev Team- demonstrates sprints results to the product owner. the dev team includes Testers, architect, designers, and BA's
+
+artifacts
+1. Product Backlog- a wish of list of all desired work/task/issues on the project. it is prioritized by the PO
+
+2.User Story- is like waterfalls "requirements".Po's  are the only on that has authority to assight product backlog or sprints
+
+ceremonies/meeting- daily stand up:15 min daily go over progress for yesterday and today
+sprint groom,done mid sprint to go oversplitting big stories deleting or adjusting stories and backlog
+
+Sprint demo- meeting with the customer end of sprint to preview progress
+
+Sprint retrospect- next day after sprint ends to talk about what went well how toi adjust and blow some steam

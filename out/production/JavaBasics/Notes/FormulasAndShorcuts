@@ -1,0 +1,49 @@
+formulas and shortcuts
+
+Formula for even number is num%2==0
+example int num1=0:
+      if(num1%2==0){
+         Syso->("number is even");
+         }else{
+         Syso->("number is odd");
+
+short cut to bring scanner once typed ctrl+shift+o
+
+Shortcut for autocomplete for main  ctrl+space
+
+Format ctrl+shift+f
+
+Scanner input formula is    Scanner fetch= new Scanner (System.in);
+
+Main method   public static void main(String[] args);
+
+scanner inputs String is scannername.next();, int is scannername.nextInt();
+double is scannername.nextDouble();, char is scannername.next.charAt(0,1,2,);,
+Example of completing a full string like first and last name  scannername.nextLine();
+
+ \n    that is an escape charater which will create a new line like pressing enter
+
+ \t        will put a tab space also an escape
+
+ "\"       will show "" in println example   System.out.println("\" i love pizza\"");
+
+ \\        i have to enter two backslash or else if i do one it will think im using an escape charater
+
+ User input= Scanner. scan= new Scanner(System.in);
+
+ to format code its ctrl+shift+f
+
+ to ingore casing in nested inner box i can use .equalsIgnoreCase
+
+ if i want to have double quotes within string heres example
+  (" The \"fish\" is gold") its called an escape character
+  works for backslashes also ("hello\\")
+
+To find and just print a nuber to the power you use Syso(Math.pow(5, 2)); which would equal 25.0
+and if you dont want it in a bouble format use int like Syso((int)Math.pow(5, 2));
+and if i want to store it as a variable just take out the ()
+
+String str = Arrays.deepToString(arr); to print all  arrays
+and String str = Arrays.toString(arr
+
+to find radius syntax is (3.14variablevariable)  or (Math.PI*Math.Pow(variable,2)

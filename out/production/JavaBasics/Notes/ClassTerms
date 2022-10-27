@@ -1,0 +1,8 @@
+class- template or bueprint from which we create program/object
+
+fields- are where you put the instance variable also known as property or atributes
+
+Bevavior - are the methods you create such as the actions you want them to do
+
+objects -are created by constructors using fields and methods objects also have state
+ that define how the object will look like

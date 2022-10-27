@@ -1,0 +1,28 @@
+STLC
+
+1:Requirment/analyse, SmMART criteria specific,measureble,attainable, relevent, time base
+
+
+Test planning- what when how who when  prepared by test lead
+
+Test case Development
+amazon.com - Production Enviroment
+Dev.amazon.com- Develover enviroment, where developers make code
+Test.amazon.com- QA Tester Enviroment, where tester do test
+Stage.amazon.com - like a trial page where real user test it.(UAT user acceptance testing) then it goes to production
+
+There are 2 types of testing 1)Funcional 2) non fuctional
+
+Fuctional- to check the fuctioality of the application
+
+Non Fuctional- backend testing
+
+Regression testing testing all the completed funtionality/all the test cases
+
+only Developers do unit/component testing.
+
+QA tester we perform the integration testing/ test fuctionality
+
+regression tests all the scenarios
+
+system testing- test everything front to end. smoke test

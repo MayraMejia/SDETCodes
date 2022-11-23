@@ -1,7 +1,6 @@
 package class30;
 import Utils.ExcelReader;
 
-
 import java.io.IOException;
 
 public class TypesOfExcep {
